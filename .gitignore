@@ -1,0 +1,4 @@
+stripe_test_task_django
+venv
+db.sqlite3
+.idea
